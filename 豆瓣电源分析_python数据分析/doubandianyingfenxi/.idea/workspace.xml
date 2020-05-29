@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d028bd-47f3-4c24-bed9-3dd65ad7d5d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Datas/RankByRegion/Canada地区的电影2018年的排名.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datas/RankByRegion/Canada地区的电影2018年的排名.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datas/RankByRegion/加拿大 CANADA地区的电影2018年的排名.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datas/RankByRegion/加拿大 CANADA地区的电影2018年的排名.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datas/RankByRegion/印度 India地区的电影2018年的排名.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datas/RankByRegion/印度 India地区的电影2018年的排名.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datas/RankByRegion/巴西 BRAZIL地区的电影2018年的排名.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Datas/RankByRegion/巴西 BRAZIL地区的电影2018年的排名.csv" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataAna.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8493">
+              <caret line="447" column="21" selection-start-line="447" selection-start-column="21" selection-end-line="447" selection-end-column="21" />
+              <folding>
+                <element signature="e#138#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spider_comment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="50" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/spider_film.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>has_rank_type</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Datas/SourceData/data1.csv" />
+        <option value="$PROJECT_DIR$/DataAna.py" />
+        <option value="$PROJECT_DIR$/Draw/DataAna.py" />
+        <option value="$PROJECT_DIR$/src/DrawSth.py" />
+        <option value="$PROJECT_DIR$/src/DataAna.py" />
+        <option value="$PROJECT_DIR$/src/DataAna.py" />
+        <option value="$PROJECT_DIR$/src/spider_comment.py" />
+        <option value="$PROJECT_DIR$/src/spider_film.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1923" />
+    <option name="height" value="1063" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Douban-Movie-Crawler-Analysis" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\充当桌面专用\Douban-Movie-Crawler-Analysis" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Douban-Movie-Crawler-Analysis" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\充当桌面专用\Douban-Movie-Crawler-Analysis" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Draw" />
+      <recent name="$PROJECT_DIR$/Datas/SourceData" />
+      <recent name="$PROJECT_DIR$/Datas" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DataAna" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Douban-Movie-Crawler-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/DataAna.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Douban-Movie-Crawler-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Douban-Movie-Crawler-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Douban-Movie-Crawler-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="Douban-Movie-Crawler-Analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DataAna" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d028bd-47f3-4c24-bed9-3dd65ad7d5d8" name="Default Changelist" comment="" />
+      <created>1561192298617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561192298617</updated>
+    </task>
+    <task id="LOCAL-00001" summary="'add function by credit'">
+      <created>1561629501037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561629501037</updated>
+    </task>
+    <task id="LOCAL-00002" summary="'add function by credit'">
+      <created>1561629541765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561629541765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538004" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32869378" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23447537" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30620986" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'add function by credit'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add function by credit'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Datas/ '科幻'类型电影于2018年上映的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/ '爱情'类型电影于2018年上映的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/ '悬疑'类型电影于2018年上映的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType'恐怖'电影于2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/'剧情'电影于['2018']年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 中国大陆 地区的电影于['2018']年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 中国大陆'地区的电影于['2018']年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 冰岛'地区的电影于['2018']年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/SourceData/source_data.csv" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pandas/core/frame.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pandas/core/series.py" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 中国大陆 地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 丹麦 地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 丹麦 Denmark'地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 丹麦'地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 中国大陆'地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/' 不丹 地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/动作电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/古装电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/动画电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/剧情电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/冒险电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/不丹地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/中国大陆地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/丹麦 Denmark地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/丹麦地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/乌克兰地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/乌拉圭地区的电影2018年的排名.csv" />
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py" />
+    <entry file="file://$PROJECT_DIR$/Draw/DataAna.py" />
+    <entry file="file://$PROJECT_DIR$/Datas/SourceData/data2.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/SourceData/data3.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/SourceData/data6.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/SourceData/output.csv" />
+    <entry file="file://$PROJECT_DIR$/src/DrawSth.py" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/土耳其 Turkey地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/戰爭 War电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/SourceData/data1.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/Argentina地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/Austria地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/Hungary地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/Poland地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/乌干达 Uganda地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/伊拉克 Iraq地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByRegion/俄罗斯 Russia地区的电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/传记电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/儿童电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/Datas/RankByType/喜剧电影2018年的排名.csv" />
+    <entry file="file://$PROJECT_DIR$/src/DataAna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8493">
+          <caret line="447" column="21" selection-start-line="447" selection-start-column="21" selection-end-line="447" selection-end-column="21" />
+          <folding>
+            <element signature="e#138#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider_comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="50" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spider_film.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
